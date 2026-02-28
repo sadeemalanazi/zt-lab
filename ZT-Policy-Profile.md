@@ -30,4 +30,4 @@ For example, when an HR employee attempts to access the HR Employee PII Database
 Filename: ZT-Policy-Profile.md
 
 Commit Message:
-Created Zero Trust Policy Profile for HR PII Database – https://github.com/YOUR-USERNAME/YOUR-REPO
+Created Zero Trust Policy Profile for HR PII Database – https://github.com/sadeemalanazi/zt-lab 
